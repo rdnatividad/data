@@ -68,6 +68,8 @@ Data were provided to Open Development Cambodia directly by Save Cambodia's Wild
 
 Sources
 
+Wildlife Conservation Society, 2013.
+
 Save Cambodia's Wildlife. "Biodiversity." Atlas of Cambodia: maps on socio-economic development and environment. Second ed. Phnom Penh, 2014. 30-31. Print.
 
 Contact
@@ -81,7 +83,7 @@ http://cambodiaswildlife.org
 
 Metadata Reference
 
-Metadata last updated on 2014-06-26. For inquiries contact:
+Metadata last updated on 2014-06-30. For inquiries contact:
 
 Open Development Cambodia  
 contact@opendevcam.net  
@@ -91,17 +93,17 @@ http://www.opendevelopmentcambodia.net
 
 Attributes
 
-Khmer / government of Cambodia : Khmer name
-English / government of Cambodia : English name
-Type / government of Cambodia : type
-Designate / government of Cambodia : designature 
-Sign_Year / government of Cambodia : year of signature
-Mgt_Agency / government of Cambodia : unknown
-Provinces / government of Cambodia : province
-Current_Ha / government of Cambodia : current size (in hectares)
-Area_Kilom / government of Cambodia : area size (in square kilometer)
-Perimeter_ / government of Cambodia : perimeter
-Hectares / government of Cambodia : area size (in hectares)
-Code / government of Cambodia : code
+Khmer / Wildlife Conservation Society : Khmer name
+English / Wildlife Conservation Society : English name
+Type / Wildlife Conservation Society : type
+Designate / Wildlife Conservation Society : designature 
+Sign_Year / Wildlife Conservation Society : year of signature
+Mgt_Agency / Wildlife Conservation Society : unknown
+Provinces / Wildlife Conservation Society : province
+Current_Ha / Wildlife Conservation Society : current size (in hectares)
+Area_Kilom / Wildlife Conservation Society : area size (in square kilometer)
+Perimeter_ / Wildlife Conservation Society : perimeter
+Hectares / Wildlife Conservation Society : area size (in hectares)
+Code / Wildlife Conservation Society : code
 
 
